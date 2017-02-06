@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+div#cards {
+  width: 1000px;
+  margin: 0px auto;
+}
+
+div.row {
+  display: flex;
+  flex-direction: row;
+}
+
+div.card {
+  width: 100px;
+  height: 100px;
+  border: 1px solid;
+  margin: 5px;
+  background: blue;
+}
+
+/* Created by Tim Van den Enden on 03/02/2017. */
+/* Copyright © 2017 Tim Van den Enden. All rights reserved. */
